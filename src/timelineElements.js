@@ -22,7 +22,7 @@ let timelineElements = [
     title: "Move from France to Argentina",
     location: "Rosario, Argentina",
     description:
-      "In december 2020 i moved from France to Argentina. As an adaptable, active listener person, In few months I learned spanish and the Argentinian culture.",
+      "In december 2020 I moved from France to Argentina. As an adaptable, active listener person, In few months I learned spanish and the Argentinian culture.",
     date: "December 2020",
     icon: "school",
   },
