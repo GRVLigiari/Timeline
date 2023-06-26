@@ -4,8 +4,8 @@ let timelineElements = [
     title: "Full Stack Graduation C# / ASP.NET / SQL ",
     location: "Paris, France",
     description:
-      "In June 2023, I presented an application coded in CSharp (MVC architecture) in front of a panel of professionals. I successfully delivered my presentation and earned a diploma as a full stack web and mobile web developer.",
-    date: "May 2022 - Infinity and Beyond",
+      "I presented an application coded in CSharp (MVC architecture) in front of a panel of professionals. I successfully delivered my presentation and earned a diploma as a full stack web and mobile web developer.",
+    date: "June 2023",
     icon: "school",
   },
   
@@ -15,7 +15,7 @@ let timelineElements = [
     location: "Rosario, Argentina",
     description:
       "Starting my journey in development. Compiling courses from Microsoft Learn, UDEMY, MDN Web Docs and building projects. I've learned to build React Apps, WebSite and more. I started with JavaScript and I'm ready to work in a Front-End team. And willing to learn much more.",
-    date: "May 2022 - Infinity and Beyond",
+    date: "May 2022",
     icon: "school",
   },
   {
