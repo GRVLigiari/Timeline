@@ -1,11 +1,11 @@
 let timelineElements = [
   {
     id: 1,
-    title: "Full Stack Graduation C# / ASP.NET / SQL ",
+    title: "Agile Scrum et ITIL4 Foundation Short-Term Course",
     location: "Paris, France",
     description:
-      "I presented an application coded in CSharp (MVC architecture) in front of a panel of professionals. I successfully delivered my presentation and earned a diploma as a full stack web and mobile web developer.",
-    date: "June 2023",
+      "Following the acquisition of my diploma, to better prepare myself for the current job market, I decided to deepen my knowledge with training in Agile, ITIL, and Scrum methods. This will lead to an Agile Scrum certification from Oriions and an ITIL 4 Foundation certification from Axelos.",
+    date: "July 2023",
     icon: "school",
   },
 
