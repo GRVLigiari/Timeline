@@ -1,6 +1,17 @@
 let timelineElements = [
-   {
+  {
     id: 1,
+    title: "Full Stack Graduation C# / ASP.NET / SQL ",
+    location: "Paris, France",
+    description:
+      "I presented an application coded in CSharp (MVC architecture) in front of a panel of professionals. I successfully delivered my presentation and earned a diploma as a full stack web and mobile web developer.",
+    date: "June 2023",
+    icon: "school",
+  },
+
+   
+   {
+    id: 2,
     title: "Full Stack Graduation C# / ASP.NET / SQL ",
     location: "Paris, France",
     description:
@@ -10,7 +21,7 @@ let timelineElements = [
   },
   
   {
-    id: 2,
+    id: 3,
     title: "Frontend Developer",
     location: "Rosario, Argentina",
     description:
@@ -19,7 +30,7 @@ let timelineElements = [
     icon: "school",
   },
   {
-    id: 3,
+    id: 4,
     title: "Pack OFFICE Specialist",
     location: "Rosario, Argentina",
     description:
@@ -28,7 +39,7 @@ let timelineElements = [
     icon: "work",
   },
   {
-    id: 4,
+    id: 5,
     title: "Move from France to Argentina",
     location: "Rosario, Argentina",
     description:
@@ -37,7 +48,7 @@ let timelineElements = [
     icon: "school",
   },
   {
-    id: 5,
+    id: 6,
     title: "Producer Morning News Show",
     location: "Paris, France",
     description:
@@ -46,7 +57,7 @@ let timelineElements = [
     icon: "work",
   },
   {
-    id: 6,
+    id: 7,
     title: "Producer / Director Entertainment medias ",
     location: "Paris, France",
     description:
@@ -55,7 +66,7 @@ let timelineElements = [
     icon: "work",
   },
   {
-    id: 7,
+    id: 8,
     title: "Marketing & Economy diploma",
     location: "Nice, France",
     description:
